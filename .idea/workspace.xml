@@ -5,12 +5,9 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.tox/dist/src-0.0.1.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.tox/dist/src-0.0.1.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.tox/log/GLOB-0.log" beforeDir="false" afterPath="$PROJECT_DIR$/.tox/log/GLOB-0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/schema_in.json" beforeDir="false" afterPath="$PROJECT_DIR$/tests/schema_in.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tox.ini" beforeDir="false" afterPath="$PROJECT_DIR$/tox.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src.egg-info/SOURCES.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src.egg-info/SOURCES.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src.egg-info/top_level.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src.egg-info/top_level.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
