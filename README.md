@@ -59,12 +59,12 @@ pytest command
 pytest -v
 ```
 
-setup commands -
+setup commands -Install packages from local directory having __init__.py by using setup.py 
 ```bash
 pip install -e . 
 ```
 
-build your own package commands- 
+build your own package commands in the form of tar.gz- 
 ```bash
 python setup.py sdist bdist_wheel
 ```

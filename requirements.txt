@@ -1,7 +1,8 @@
-# local package install
-#-e .
+# local package install like get_data, load_data, split_data etc
+-e .
 
-# third party packages
+# Third party packages
+##flake8 lib is use track the goodness of code as per PEP8 standards
 dvc
 dvc[gdrive]
 sklearn
