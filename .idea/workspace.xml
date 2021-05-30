@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="20733d0c-0649-4c37-a287-7c44408191fe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_given/winequality.csv.dvc" beforeDir="false" afterPath="$PROJECT_DIR$/data_given/winequality.csv.dvc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dvc.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/dvc.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/get_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/get_data.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
